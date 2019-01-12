@@ -33,7 +33,7 @@
 #*.wixproj   merge=binary
 #*.modelproj merge=binary
 #*.sqlproj   merge=binary
-#*.wwaproj   merge=binary
+#*.cpp   merge=c
 
 ###############################################################################
 # behavior for image files
