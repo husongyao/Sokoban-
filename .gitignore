@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.js linguist-language=c 
+*.cpp linguist-language=c
+*.html linguist-language=c  
+*.java linguist-language=c 
